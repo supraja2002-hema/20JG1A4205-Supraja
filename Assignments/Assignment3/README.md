@@ -1,4 +1,7 @@
-##Steps to use the above code
+Assignment - 3: In this assignment, you will create a RESTful API using Express.js and integrate it with
+MongoDB to perform CRUD operations on a database.
+
+**Steps to use the above code**
 1. Download the above code files and open that folder in VS Code.
 2. Open the terminal and navigate to the folder where all the above code files are saved.
 3. Run the following command so that all the necessary dependencies are installed into the folder:
